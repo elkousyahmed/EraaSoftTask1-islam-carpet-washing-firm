@@ -47,7 +47,7 @@
             int tax = totalCost * 6 / 100;
 
             Console.WriteLine("------------------------------------------------");
-            Console.WriteLine("tax is " + tax + "    (6%)");
+            Console.WriteLine("tax is " + tax + "       (6%)");
 
             int finalCost = totalCost + tax;
 
